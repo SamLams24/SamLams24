@@ -45,7 +45,7 @@ This experience strengthened my interest in systems that can model complex envir
 ## 💼 Professional Experience
 
 ### AFRICODELAB
-**Web & Mobile Developer — Freelance | Since March 2026**
+**Web & Mobile Developer : Freelance | Since March 2026**
 
 Previously joined the company as a software development intern from November 2025 to March 2026.
 
@@ -74,7 +74,7 @@ During the internship, I progressively took on responsibilities as **Backend Tea
 ## 🧠 What I'm Currently Exploring
 
 ### Nunya AI
-**Personal experimental project — in progress**
+**Personal experimental project : in progress**
 
 I'm currently experimenting with AI model integration using:
 
